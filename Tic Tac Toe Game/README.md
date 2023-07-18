@@ -2,9 +2,13 @@
 
 <div align="center">
 <img src="https://github.com/CodeStudio-Content/Python-Project-Video/blob/main/tic%20tack%20toe.gif"  width="800" height="500">
+   
+  <video controls width="640" height="360">
+    <source src="https://github.com/CodeStudio-Content/Python-Project-Video/blob/main/tic%20tack%20toe.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
   </div>
-
-
 
 ## About
 
