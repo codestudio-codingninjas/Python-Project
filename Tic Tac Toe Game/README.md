@@ -1,7 +1,7 @@
 <h1 align="center">Tic Tac Toe</h1>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/77020164/221342242-5fffd63b-0d52-4de3-807d-1ad1271865cc.gif"  width="800" height="500">
+<img src="https://github.com/CodeStudio-Content/Python-Project-Video/blob/main/tic%20tack%20toe.gif"  width="800" height="500">
   </div>
 
 
@@ -51,8 +51,3 @@ Check out our guided path on Tic Tac Toe for more information on the development
 * `game_over(self)` : This method disables all buttons and displays a message announcing the winner or declaring a tie.
 
 
-<div align="center">
-  
-## Made with ❤️ , Python, and Tkinter. Enjoy!
-  
-</div>
