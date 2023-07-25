@@ -10,7 +10,7 @@ The Quiz Application is a simple interactive game that presents a series of ques
 
 ## Guided Path
 
-#Check out our guided path on the Quiz Application for more information on the development process and our thoughts on building the Quiz Game:
+Check out our guided path on the Quiz Application for more information on the development process and our thoughts on building the Quiz Game:
 
 * [Quiz Application Using Python](https://www.codingninjas.com/studio/guided-paths/python-projects/content/577060/offering/8920006).
 
