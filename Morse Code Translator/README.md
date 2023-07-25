@@ -10,7 +10,7 @@ The Morse Code Translator is a simple application that allows users to convert t
 
 Check out our guided path on the Morse Code Translator for more information on the development process and our thoughts on building the Morse Code Translation application:
 
-* [Morse Code Translator Using Python](https://www.codingninjas.com/studio/guided-paths/python-projects/content/577066/offering/8951974).
+* [Morse Code Translator Using Python](https://www.codingninjas.com/studio/guided-paths/python-projects/content/577064/offering/9006781).
 
 ## Requirements
 
