@@ -10,7 +10,7 @@ The TODO List Manager is a simple application that allows users to manage their 
 
 ## Guided Path
 
-## Check out our guided path on the TODO List Manager for more information on the development process and our thoughts on building the TODO List Management application:
+Check out our guided path on the TODO List Manager for more information on the development process and our thoughts on building the TODO List Management application:
 
 * [TODO List Manager Using Python](https://www.codingninjas.com/studio/guided-paths/python-projects/content/577062/offering/8920014).
 
