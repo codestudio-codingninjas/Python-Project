@@ -10,7 +10,7 @@ The Snake Game is a classic single-player game where the player controls a snake
 
 ## Guided Path
 
-# Check out our guided path on the Snake Game for more information on the development process and our thoughts on building the Snake Game:
+Check out our guided path on the Snake Game for more information on the development process and our thoughts on building the Snake Game:
 
 * [Snake Game Using Python](https://www.codingninjas.com/studio/guided-paths/python-projects/content/577065/offering/8951970).
 
