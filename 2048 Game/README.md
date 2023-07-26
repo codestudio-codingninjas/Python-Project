@@ -1,7 +1,7 @@
 # <h1 align="center">2048 Game</h1>
 
 <div align="center">
-<img src="https://github.com/CodeStudio-Content/Python-Project-Video/blob/main/2048%20game.gif?raw=true"  width="800" height="500">  
+<img src="https://github.com/CodeStudio-Content/Python-Project-Video/blob/main/2048%20python%20game.gif?raw=true"  width="800" height="500">  
 </div>
 
 ## About
