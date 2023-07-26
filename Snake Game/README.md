@@ -1,7 +1,7 @@
 # <h1 align="center">Snake Game</h1>
 
 <div align="center">
-<img src="https://github.com/CodeStudio-Content/Python-Project-Video/blob/main/snake.gif?raw=true"  width="800" height="500">  
+<img src="https://github.com/CodeStudio-Content/Python-Project-Video/blob/main/Snake_Game_GIF.gif?raw=true"  width="800" height="500">  
 </div>
 
 ## About
