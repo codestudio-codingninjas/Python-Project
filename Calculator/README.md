@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Calculator</h1>
-  <img src="https://github.com/CodeStudio-Content/Python-Project-Video/blob/main/basic%20calculator.gif?raw=true" alt ="Calculator GIF">
+  <img src="https://github.com/CodeStudio-Content/Python-Project-Video/blob/main/calculator.gif?raw=true" alt ="Calculator GIF">
 </div>
 
 The Calculator is a simple Python application that performs basic arithmetic operations. Users can enter mathematical expressions using the provided buttons and get the result displayed.
