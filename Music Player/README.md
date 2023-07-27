@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Music Player</h1>
-  <img src="https://github.com/CodeStudio-Content/Python-Project-Video/blob/main/music%20player.gif?raw=true"  width="800" height="500">  
+  <img src="https://raw.githubusercontent.com/CodeStudio-Content/Python-Project-Video/main/music%20app.gif"  width="800" height="500">  
 
   
 
